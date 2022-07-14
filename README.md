@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SorosWen
-- 👀 I’m interested in photography and writing programs. 
-- 🌱 I’m currently learning AI algorithms and will implement it on a program soon. 
-- 💞️ I’m looking to collaborate on web development and backend software development. 
+- 👋 Greetings, I’m @SorosWen
+- 🌱 I love photography, gardening and camping. 
+- 💞️ I’m happy to collaborate on any algorithm development and research. 
 - 📫 You can reach me at wenmingjun0725@gmail.com. 
 - 🌁 You can check out my photos here: https://www.instagram.com/soros_the_traveler/
 
